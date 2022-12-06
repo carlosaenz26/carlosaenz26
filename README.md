@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlosaenz26
-- 👀 I’m interested in integrated energy systems electricity gas and water and its market
+- 👀 I’m interested ML, MO applied in integrated energy systems electricity gas and water and its market
 - 🌱 I’m currently learning julia javascript 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on related topics ...
 - 📫 How to reach me personal email carlosaenz.26@hotail.com
 
 <!---
