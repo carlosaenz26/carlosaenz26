@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @carlosaenz26
-- 👀 I’m interested ML, MO applied in integrated energy systems electricity gas and water and its market
-- 🌱 I’m currently learning julia javascript 
-- 💞️ I’m looking to collaborate on related topics ...
-- 📫 How to reach me personal email carlosaenz.26@hotail.com
+# 👋 Hi, I'm @carlosaenz26
 
-<!---
-carlosaenz26/carlosaenz26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Passionate about Machine Learning (ML) and MLOps applied to integrated energy systems, including power and gas markets.
+- 🧠 Currently exploring Julia and JavaScript to expand my tech toolkit.
+- 🌱 Always learning and seeking opportunities to collaborate on innovative projects related to energy optimization and AI applications.
+- 🤝 Open to collaborating with like-minded professionals in the energy and tech sectors.
+- 📬 Reach me at: carlosaenz.26@hotmail.com
+
+🚀 Let's build something impactful together!
